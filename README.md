@@ -1,4 +1,4 @@
-# Neonatal Jaundice Detection Using Image Processing and Machine Learning
+# Neonatal Jaundice Detection Using Machine Learning
 
 A non-invasive diagnostic system for early detection of neonatal jaundice using facial image analysis and machine learning, developed by Dr. Yasir Hussein Shakir.
 
